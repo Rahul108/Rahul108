@@ -9,6 +9,12 @@
 <a href="https://www.linkedin.com/in/aninda-sarker-9670b2171/">
   <img align="left" alt="Rahul's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://stackoverflow.com/users/7344409/aninda-sarker">
+  <img align="left" alt="Rahul's Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
+</a>
+<a href="https://www.instagram.com/_rahul_aninda_/">
+  <img align="left" alt="Rahul's Instagram" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
+</a>
 <a href="https://open.spotify.com/user/qdpahq0ic3gsa9hwpt1pymj17?si=bxqUL29LRQW-60F6ZmhJxQ">
   <img align="left" alt="Rahul's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
