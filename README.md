@@ -26,7 +26,7 @@ My name is Aninda Sarker Rahul, I'm a Full Stack Developer. I'm From Bangladesh,
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Vscode-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Rahul108">
