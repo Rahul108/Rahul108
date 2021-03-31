@@ -20,10 +20,12 @@ My name is Aninda Sarker Rahul, I'm a Full Stack Developer. I'm From Bangladesh,
 
 ## Things I Use
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo="https://simpleicons.org/icons/cplusplus.svg"&logoColor=black" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-Js-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/Php-777BB4.svg?style=flat&logo=Php&logoColor=black" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=black" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
