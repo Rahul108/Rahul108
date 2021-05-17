@@ -22,7 +22,7 @@
 <br />
 <p></p>
 <p>
-My name is Aninda Sarker Rahul, I'm a Full Stack Developer. I'm From Bangladesh, currently working at Progoty Systems Limited. 
+I'm Aninda Sarker Rahul from Bangladesh. I'm a Full Stack Developer, currently working at Progoty Systems Limited. 
 </p>
 
 ## Things I Use
