@@ -48,7 +48,8 @@ I'm Aninda Sarker Rahul from Bangladesh. I'm a Full Stack Developer, currently w
   <img alt="VScode" src="https://img.shields.io/badge/-Vscode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
+## GitHub Stats
 <a href="https://github.com/Rahul108">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul108&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahul's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul108&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
