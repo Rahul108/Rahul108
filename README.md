@@ -16,7 +16,7 @@
   <img align="left" alt="Rahul's Instagram" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/qdpahq0ic3gsa9hwpt1pymj17?si=bxqUL29LRQW-60F6ZmhJxQ">
-  <img align="left" alt="Rahul's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Rahul's Spotify" width="22px" src="https://i0.wp.com/traffic-chic.com/wp-content/uploads/2020/05/spotify-download-logo-30.png?ssl=1" />
 </a>
 </p>
 <br />
