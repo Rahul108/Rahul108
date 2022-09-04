@@ -22,7 +22,7 @@
 <br />
 <p></p>
 <p>
-I'm a Full Stack Developer, currently working at Softwrd Ltd 
+I'm a Full Stack Developer, currently working at ShopUp 
 </p>
 
 ## Things I Use
