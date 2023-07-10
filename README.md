@@ -1,13 +1,13 @@
 ## Hi there 👋
 <p>
 <a href="https://discord.gg/WBPbu4fFWZ">
-  <img align="left" alt="Rahul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" height="22px" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://twitter.com/aninda_sarker">
-  <img align="left" alt="Aninda Sarker | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" height="22px" width="22px" src="https://cdn.simpleicons.org/twitter" />
 </a>
 <a href="https://www.linkedin.com/in/aninda-sarker-9670b2171/">
-  <img align="left" alt="Rahul's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" height="22px" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://stackoverflow.com/users/7344409/aninda-sarker">
   <img align="left" alt="Rahul's Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
