@@ -4,7 +4,7 @@
   <img align="left" height="22px" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://twitter.com/aninda_sarker">
-  <img align="left" height="22px" width="22px" src="https://cdn.simpleicons.org/twitter" />
+  <img align="left" height="22px" width="22px" src="https://cdn.simpleicons.org/x" />
 </a>
 <a href="https://www.linkedin.com/in/aninda-sarker-9670b2171/">
   <img align="left" height="22px" width="22px" src="https://cdn.simpleicons.org/linkedin" />
