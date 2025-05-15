@@ -6,8 +6,8 @@
 <a href="https://twitter.com/aninda_sarker">
   <img align="left" height="22px" width="22px" src="https://cdn.simpleicons.org/x" />
 </a>
-<a href="https://www.linkedin.com/in/aninda-sarker-9670b2171/">
-  <img align="left" height="22px" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+<a href="https://www.linkedin.com/in/aninda-sarker-9670b2171/" target="_blank">
+  <img align="left" height="22px" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
 <a href="https://stackoverflow.com/users/7344409/aninda-sarker">
   <img align="left" alt="Rahul's Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
