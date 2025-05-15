@@ -29,14 +29,16 @@ I'm a Full Stack Developer, currently working at Miaki | Grameenphone Ltd
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-Js-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/Php-777BB4.svg?style=flat&logo=Php&logoColor=black" />
+  <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
   <img alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=black" />
-  <img alt"NextJs" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Material-UI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
@@ -48,6 +50,15 @@ I'm a Full Stack Developer, currently working at Miaki | Grameenphone Ltd
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Bruno" src="https://img.shields.io/badge/-Bruno-FF6C37?style=flat-square&logo=bruno&logoColor=white" />
   <img alt="Apache JMeter" src="https://img.shields.io/badge/-jmeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white" />
-  <img alt="VScode" src="https://img.shields.io/badge/-Vscode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="k6" src="https://img.shields.io/badge/-k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Termius" src="https://img.shields.io/badge/-Termius-1792D2?style=flat-square&logo=termius&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-E8478B?style=flat-square&logo=kibana&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
