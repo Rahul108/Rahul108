@@ -1,20 +1,8 @@
 # Contact me
-
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <div>
-    <img src="https://raw.githubusercontent.com/Rahul108/Rahul108/refs/heads/main/assets/intro-gif.gif" width="200"/>
-  </div>
-
-  <div>
-
 - **LinkedIn:** [aninda-sarker](https://www.linkedin.com/in/aninda-sarker)  
 - **X / Twitter:** [aninda_sarker](https://twitter.com/aninda_sarker)  
 - **Facebook:** [anindasarker.rahul](https://www.facebook.com/anindasarker.rahul)  
 - **Discord:** `pyro108sk`  
-  </div>
-
-</div>
 
 
 # About Me
