@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <div>
-    <img src="assets/intro-gif.gif" width="200"/>
+    <img src="https://raw.githubusercontent.com/Rahul108/Rahul108/refs/heads/main/assets/intro-gif.gif" width="200"/>
   </div>
 
   <div>
