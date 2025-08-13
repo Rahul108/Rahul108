@@ -24,4 +24,5 @@
 - **Database / Caching:** PostgreSQL, MySQL, MongoDB, Oracle ODS, Redis  
 - **Messaging / CDC:** RabbitMQ, Debezium, Maxwell  
 - **Cloud / DevOps:** Docker, Kubernetes, AWS (EC2, S3), GitLab CI/CD, GitHub Actions, Ansible, Terraform, Jenkins  
-- **Monitoring Tools:** SonarQube, ELK Stack, Prometheus, Grafana  
+- **Monitoring Tools:** SonarQube, ELK Stack, Prometheus, Grafana
+- **Testing Automation Tools:** Selenium, Appium, Newman
