@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <div>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW02cmgzeWdmNDZoZW0wNXc4OTlsYXFqaDBuaGdwMHF0eTd2OWtleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eaq9KLdCRaIerLnPjW/giphy.gif" width="200"/>
+    <img src="assets/intro-gif.gif" width="200"/>
   </div>
 
   <div>
