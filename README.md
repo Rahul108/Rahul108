@@ -27,6 +27,7 @@
 * **[/AllThingsSSRF](https://github.com/Rahul108/AllThingsSSRF)**: SSRF exploitation & defense resources (fork).
 
 #### Learning Labs & Tutorials
+* **[/temporal-multiservice-orchestrator](https://github.com/Rahul108/temporal-multiservice-orchestrator)**: POC demonstrating Temporal.io workflow orchestration across multiple Node.js microservices
 * **[/Simple_Python_Projects](https://github.com/Rahul108/Simple_Python_Projects)**: Python beginner learning projects.
 * **[/Leetcode_Solves](https://github.com/Rahul108/Leetcode_Solves)**: Python solutions to LeetCode problems.
 * **[/Vim_configuration](https://github.com/Rahul108/Vim_configuration)**: Personal Vim setup.
