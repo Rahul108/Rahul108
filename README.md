@@ -7,6 +7,7 @@
 #### Data Streaming & CDC
 * **[/debezium-rabbitmq-cdc](https://github.com/Rahul108/debezium-rabbitmq-cdc)**: CDC pipeline with Debezium & RabbitMQ.
 * **[/mysql-binlog-collector-with-maxwell-rabbitmq-mongo](https://github.com/Rahul108/mysql-binlog-collector-with-maxwell-rabbitmq-mongo)**: MySQL binlog ingestion with Maxwell, RabbitMQ & MongoDB.
+* **[/confluent-kafka-node-consumer](https://github.com/Rahul108/confluent-kafka-node-consumer)**: Node.js consumer for Confluent Kafka streams with TLS/mTLS support.
 
 #### DevOps, Infrastructure & Automation
 * **[/Ostad-Capstone-project](https://github.com/Rahul108/Ostad-Capstone-project)**: Terraform / DevOps capstone infrastructure project.
