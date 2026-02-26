@@ -14,6 +14,7 @@
 * **[/Ostad-Capstone-project](https://github.com/Rahul108/Ostad-Capstone-project)**: Terraform / DevOps capstone infrastructure project.
 
 #### Web & Application Development
+* **[/near_me](https://github.com/Rahul108/near_me)**: React + Hono + PostGIS + Docker Geolocation app to find nearby points of interest within a radius.
 * **[/order_management_system](https://github.com/Rahul108/order_management_system)**: Go backend for order management.
 * **[/building-management](https://github.com/Rahul108/building-management)**: TypeScript building management project.
 * **[/calc-versa](https://github.com/Rahul108/calc-versa)**: JavaScript calculation/utility tool.
