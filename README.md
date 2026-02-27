@@ -3,9 +3,11 @@
 ## Projects
 #### AI & Intelligent Systems
 * **[/llm_playground](https://github.com/Rahul108/llm_playground)**: Learning platform for building and understanding Large Language Models from scratch.
+* **[/BuildWise](https://github.com/Rahul108/BuildWise)**: Property & finance management system with RAG, tool-calling agents, and multi-currency support.
 * **[/customer_support_chatbot](https://github.com/Rahul108/customer_support_chatbot)**: Customer support chatbot using PEFT and advanced prompt engineering.
 * **[/ask_the_web_agent](https://github.com/Rahul108/ask_the_web_agent)**: Web research agent with parallel search, prompt chaining, and self-reflection.
-* **[/BuildWise](https://github.com/Rahul108/BuildWise)**: Property & finance management system with RAG, tool-calling agents, and multi-currency support.
+* **[/deep_research_capability](https://github.com/Rahul108/deep_research_capability)**: Exploring reasoning LLMs and practical interface-time techniques to boost model performance.
+
 
 #### Data Streaming & CDC
 * **[/debezium-rabbitmq-cdc](https://github.com/Rahul108/debezium-rabbitmq-cdc)**: CDC pipeline with Debezium & RabbitMQ.
