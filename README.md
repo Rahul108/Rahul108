@@ -3,8 +3,8 @@
 ## Projects
 #### AI & Intelligent Systems
 * **[/llm_playground](https://github.com/Rahul108/llm_playground)**: Learning platform for building and understanding Large Language Models from scratch.
-* **[/customer_support_chatbot](https://github.com/Rahul108/customer_support_chatbot)**: Customer support chatbot using PEFT and advanced prompt engineering for scalable, memory-efficient AI assistance.
-* **[/ask_the_web_agent](https://github.com/Rahul108/ask_the_web_agent)**: Web research agent that routes, decomposes, and answers queries using parallel web search, prompt chaining, and self-reflection.
+* **[/customer_support_chatbot](https://github.com/Rahul108/customer_support_chatbot)**: Customer support chatbot using PEFT and advanced prompt engineering.
+* **[/ask_the_web_agent](https://github.com/Rahul108/ask_the_web_agent)**: Web research agent with parallel search, prompt chaining, and self-reflection.
 * **[/BuildWise](https://github.com/Rahul108/BuildWise)**: Property & finance management system with RAG, tool-calling agents, and multi-currency support.
 
 #### Data Streaming & CDC
