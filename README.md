@@ -2,6 +2,8 @@
 
 ## Projects
 #### AI & Intelligent Systems
+* **[/calc-versa](https://github.com/Rahul108/calc-versa)**: Multi-tenant, polyglot microservices platform enabling accounts to define custom calculation tool requirements and serve account-specific calculation tools under dedicated URLs.
+* **[/mermaid_canvas_ai](https://github.com/Rahul108/mermaid_canvas_ai)**: A keyboard-first, AI-powered diagramming studio that translates natural language prompts into live Mermaid.js
 * **[/llm_playground](https://github.com/Rahul108/llm_playground)**: Learning platform for building and understanding Large Language Models from scratch.
 * **[/BuildWise](https://github.com/Rahul108/BuildWise)**: Property & finance management system with RAG, tool-calling agents, and multi-currency support.
 * **[/customer_support_chatbot](https://github.com/Rahul108/customer_support_chatbot)**: Customer support chatbot using PEFT and advanced prompt engineering.
